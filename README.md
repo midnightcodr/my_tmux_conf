@@ -9,3 +9,6 @@ Check out my_tmux_status_bar.png to see how it looks like.
 	start a new tmux session and detach from it, if there's no tmux session running
 	tmux source-file ~/.tmux.conf
 	tmux att 
+
+## Screenshot
+![ScreenShot](https://github.com/midnightcodr/my_tmux_conf/blob/master/my_tmux_status_bar.png?raw=true)
